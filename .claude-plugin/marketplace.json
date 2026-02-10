@@ -1,0 +1,21 @@
+{
+	"name": "ygavrilov-marketplace",
+	"owner": {
+		"name": "Yevgeniy Gavrilov",
+		"email": "claude-code@gavrilov.kz"
+	},
+	"plugins": [
+		{
+			"name": "claude-code-skill-master-plugin",
+			"source": {
+				"source": "git",
+				"url": "git@github.com:ygavrilov/claude-code-skill-master-plugin.git"
+			},
+			"description": "A Claude Code plugin that adds the Skill Master skill — a guided assistant for creating and editing Claude Code skills with proper structure and frontmatter.",
+			"version": "1.0.0",
+			"author": {
+				"name": "ygavrilov"
+			}
+		}
+	]
+}
