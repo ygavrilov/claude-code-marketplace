@@ -18,7 +18,7 @@
 			}
 		},
 		{
-			"name": "delivery-manager",
+			"name": "delivery-manager-plugin",
 			"source": {
 				"source": "github",
 				"repo": "ygavrilov/delivery-manager-plugin"
